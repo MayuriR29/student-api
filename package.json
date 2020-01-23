@@ -8,7 +8,7 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "author": "",
+  "author": "Mayuri R",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
